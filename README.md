@@ -3,7 +3,11 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <!-- Copyright (C) 2025 Scott Friedman and PopProbe contributors -->
 
-A powerful probing tool for analyzing population data.
+A tool for easily popping an instance into the cloud.
+
+## Website
+
+Visit our website at [popprobe.io](https://popprobe.io)
 
 ## License
 

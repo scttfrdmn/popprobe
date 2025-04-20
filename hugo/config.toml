@@ -1,0 +1,15 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (C) 2025 Scott Friedman and PopProbe contributors
+
+baseURL = "https://popprobe.io/"
+languageCode = "en-us"
+title = "PopProbe"
+theme = "ananke"
+paginate = 5
+
+[params]
+  description = "A tool for easily popping an instance into the cloud"
+  github = "https://github.com/scttfrdmn/popprobe"
+  favicon = ""
+  site_logo = ""
+  background_color_class = "bg-black"

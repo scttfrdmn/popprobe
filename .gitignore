@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (C) 2025 Scott Friedman and PopProbe contributors
+
+# Hugo build output
+hugo/public/
+hugo/resources/
+hugo/.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
