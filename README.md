@@ -1,0 +1,14 @@
+# PopProbe
+
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright (C) 2025 Scott Friedman and PopProbe contributors -->
+
+A powerful probing tool for analyzing population data.
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+## Contributors
+
+See the [CONTRIBUTORS](CONTRIBUTORS) file for a list of contributors to this project.
