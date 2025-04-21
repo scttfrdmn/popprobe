@@ -2,6 +2,7 @@
 # Copyright (C) 2025 Scott Friedman and PopProbe contributors
 
 baseURL = "https://popprobe.io/"
+publishDir = "public"
 languageCode = "en-us"
 title = "PopProbe"
 theme = "ananke"

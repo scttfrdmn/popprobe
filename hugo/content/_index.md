@@ -8,15 +8,15 @@ description: "A tool for easily popping an instance into the cloud"
 
 ## Features
 
-* Coming soon
+* Coming soon!
 
 ## Getting Started
 
-* Coming soon
+* Coming soon!
 
 ## Documentation
 
-* Coming soon
+* Coming soon!
 
 ## License
 
