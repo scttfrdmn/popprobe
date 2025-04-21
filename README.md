@@ -3,6 +3,8 @@
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <!-- Copyright (C) 2025 Scott Friedman and PopProbe contributors -->
 
+![PopProbe Logo](hugo/static/images/popprobe-logo.png)
+
 A tool for easily popping an instance into the cloud.
 
 ## Website

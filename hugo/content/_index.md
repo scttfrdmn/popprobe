@@ -6,6 +6,8 @@ description: "A tool for easily popping an instance into the cloud"
 <!-- SPDX-License-Identifier: Apache-2.0 -->
 <!-- Copyright (C) 2025 Scott Friedman and PopProbe contributors -->
 
+![PopProbe Logo](/images/popprobe-logo.png)
+
 ## Features
 
 * Coming soon!
